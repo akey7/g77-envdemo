@@ -8,6 +8,8 @@ var app = require('../app');
 var debug = require('debug')('g77-envdemo:server');
 var http = require('http');
 
+require('dotenv').config()
+
 /**
  * Get port from environment and store in Express.
  */
