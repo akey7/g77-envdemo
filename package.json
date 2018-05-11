@@ -1,0 +1,23 @@
+{
+  "name": "g77-envdemo",
+  "version": "1.0.0",
+  "description": "Demo of .env for g77",
+  "main": "my-first-env.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akey7/g77-envdemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akey7/g77-envdemo/issues"
+  },
+  "homepage": "https://github.com/akey7/g77-envdemo#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1"
+  }
+}
